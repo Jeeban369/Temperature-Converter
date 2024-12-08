@@ -1,4 +1,3 @@
-![Screenshot 2024-12-08 193817](https://github.com/user-attachments/assets/4a342178-afe2-46e1-9dc8-176acae1924a)
 # Temperature Converter
 
 A simple Go program that converts temperatures between Celsius (C), Fahrenheit (F), and Kelvin (K). 
@@ -22,6 +21,8 @@ Enter the Temperature: 100
 From Unit (C, F, K) : C
 To Unit (C, F, K) : F
 100 C is 212.00 F
+```
+![Screenshot 2024-12-08 193817](https://github.com/user-attachments/assets/4a342178-afe2-46e1-9dc8-176acae1924a)
 
 
 ## Installation and Execution
