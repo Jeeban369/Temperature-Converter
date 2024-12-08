@@ -1,6 +1,4 @@
-Here's a well-structured `README.md` file for your **Temperature Converter** project:
-
-```markdown
+![Screenshot 2024-12-08 193817](https://github.com/user-attachments/assets/4a342178-afe2-46e1-9dc8-176acae1924a)
 # Temperature Converter
 
 A simple Go program that converts temperatures between Celsius (C), Fahrenheit (F), and Kelvin (K). 
@@ -24,7 +22,7 @@ Enter the Temperature: 100
 From Unit (C, F, K) : C
 To Unit (C, F, K) : F
 100 C is 212.00 F
-```
+
 
 ## Installation and Execution
 ### Prerequisites
@@ -57,6 +55,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to customize this further to include any additional information or improvements!
